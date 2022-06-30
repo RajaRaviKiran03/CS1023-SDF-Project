@@ -1,0 +1,10 @@
+#ignoring build files
+*.d
+*.o
+*.exe
+
+#ignorig VS code settings
+.vscode/
+
+#ignoring documents
+documentation/
